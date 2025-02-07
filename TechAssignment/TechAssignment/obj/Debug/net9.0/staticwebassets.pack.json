@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sohan\\Downloads\\Without_Nodemodules\\Without_Nodemodules\\TechAssignment\\TechAssignment\\wwwroot\\Images\\Screenshot (1).png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot (1).png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TechAssignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TechAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TechAssignment.props",
+      "PackagePath": "build\\TechAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TechAssignment.props",
+      "PackagePath": "buildMultiTargeting\\TechAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TechAssignment.props",
+      "PackagePath": "buildTransitive\\TechAssignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "Vxf3rxAJEBWGYvSZv+SARHN+ERBzf25SJw2Kk81YnEQ=",
+  "Source": "TechAssignment",
+  "BasePath": "_content/TechAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TechAssignment\\wwwroot",
+      "Source": "TechAssignment",
+      "ContentRoot": "C:\\Users\\Sohan\\Downloads\\Without_Nodemodules\\Without_Nodemodules\\TechAssignment\\TechAssignment\\wwwroot\\",
+      "BasePath": "_content/TechAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sohan\\Downloads\\Without_Nodemodules\\Without_Nodemodules\\TechAssignment\\TechAssignment\\wwwroot\\Images\\Screenshot (1).png",
+      "SourceId": "TechAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sohan\\Downloads\\Without_Nodemodules\\Without_Nodemodules\\TechAssignment\\TechAssignment\\wwwroot\\",
+      "BasePath": "_content/TechAssignment",
+      "RelativePath": "Images/Screenshot (1)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ycq9yt64m",
+      "Integrity": "93qWPWoYJRiT0pQct6TLe90Ra5azfGR37M7lUAzMx48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Screenshot (1).png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Screenshot (1).1ycq9yt64m.png",
+      "AssetFile": "C:\\Users\\Sohan\\Downloads\\Without_Nodemodules\\Without_Nodemodules\\TechAssignment\\TechAssignment\\wwwroot\\Images\\Screenshot (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"93qWPWoYJRiT0pQct6TLe90Ra5azfGR37M7lUAzMx48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:53:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ycq9yt64m"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Screenshot (1).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-93qWPWoYJRiT0pQct6TLe90Ra5azfGR37M7lUAzMx48="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Screenshot (1).png",
+      "AssetFile": "C:\\Users\\Sohan\\Downloads\\Without_Nodemodules\\Without_Nodemodules\\TechAssignment\\TechAssignment\\wwwroot\\Images\\Screenshot (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"93qWPWoYJRiT0pQct6TLe90Ra5azfGR37M7lUAzMx48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:53:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-93qWPWoYJRiT0pQct6TLe90Ra5azfGR37M7lUAzMx48="
+        }
+      ]
+    }
+  ]
+}
